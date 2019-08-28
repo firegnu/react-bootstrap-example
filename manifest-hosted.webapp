@@ -1,0 +1,23 @@
+{
+  "version": "1",
+  "name": "Firefox OS Boilerplate App",
+  "launch_path": "/react-bootstrap-example/index.html",
+  "description": "Boilerplate Firefox OS app with example use cases to get started",
+  "icons": {
+    "16": "/hello-pwa/images/logo16.png",
+    "32": "/hello-pwa/images/logo32.png",
+    "48": "/hello-pwa/images/logo48.png",
+    "60": "/hello-pwa/images/logo60.png",
+    "64": "/hello-pwa/images/logo64.png",
+    "90": "/hello-pwa/images/logo90.png",
+    "120": "/hello-pwa/images/logo120.png",
+    "128": "/hello-pwa/images/logo128.png"
+  },
+  "developer": {
+    "name": "Robert Nyman",
+    "url": "http://robertnyman.com"
+  },
+  "installs_allowed_from": [
+    "*"
+  ]
+}
