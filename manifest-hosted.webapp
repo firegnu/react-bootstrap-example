@@ -13,6 +13,7 @@
     "120": "/hello-pwa/images/logo120.png",
     "128": "/hello-pwa/images/logo128.png"
   },
+  "cursor": true,
   "developer": {
     "name": "Robert Nyman",
     "url": "http://robertnyman.com"
